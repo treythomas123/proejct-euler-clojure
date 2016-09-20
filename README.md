@@ -1,1 +1,1 @@
-# proejct-euler-clojure
+# project-euler-clojure
